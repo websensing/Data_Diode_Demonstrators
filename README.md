@@ -24,7 +24,7 @@ We provide three online demonstrators: *demo02*, *demo03*, and *demo04*. Each sy
 To access a demonstrator you will need to send us your *public-key*. We install it for you, allowing you to remotely access a designated demonstrator using a ***demo*** user account. If you do not have a public-key, please see the instructions at the end of this Wiki.
 
 The ***in*** and ***out*** computers on each demonstrator are accessed using Secure Shell (SSH) to IP address **71.173.69.76** with the following ports: 
-***
+
 - demo02-in: **2222** 
 - demo02-out: **2223** 
 
@@ -35,8 +35,6 @@ The ***in*** and ***out*** computers on each demonstrator are accessed using Sec
 ***
 - demo04-in: **2226** 
 - demo04-out: **2227** 
-
-***
 
 For example, to access **demo02-in** from a Linux or MacOS machine, use SSH in a Terminal window with the command:
 
