@@ -14,7 +14,7 @@
 
 # Overview
 
-A tutorial video is available ![here](https://youtu.be/GOu_UgQR9Uw)
+A tutorial video is available [![here](https://youtu.be/GOu_UgQR9Uw)].
 
 We provide three online demonstrators: *demo02*, *demo03*, and *demo04*. Each system is configured as pictured below with two computers -- ***in*** and ***out*** -- connected via a Data Diode. The diode restricts traffic such that *only* UDP traffic can pass, one-way, from the protected *inside* asset (***in***) to the *outside* networked computer (***out***); all other traffic is dropped.
 
