@@ -16,9 +16,9 @@
 
 A tutorial video is available [here](https://youtu.be/GOu_UgQR9Uw) -- be sure to use 1080p video quality via the YouTube gear icon.
 
-We provide three online demonstrators: *demo02*, *demo03*, and *demo04*. Each system is configured as pictured below with two computers -- ***in*** and ***out*** -- connected via a Data Diode. The diode restricts traffic such that *only* UDP traffic can pass, one-way, from the protected *inside* asset (***in***) to the *outside* networked computer (***out***); all other traffic is dropped.
+We provide three online demonstrators: *demo02*, *demo03*, and *demo04*. Each system is configured as pictured below for *demo02* with two computers -- ***in*** and ***out*** -- connected via a Data Diode. The diode restricts traffic such that *only* UDP traffic can pass, one-way, from the protected *inside* asset (***in***) to the *outside* networked computer (***out***); all other traffic is dropped.
 
-![demo_500x](https://user-images.githubusercontent.com/106708748/178362591-9d99c03e-83b1-40e2-971d-03a5b017388b.jpeg)
+![demonstrator](https://user-images.githubusercontent.com/20844430/180662160-da55aa66-f8f6-4aeb-8690-7411c66184db.png)
 
 
 # Access
